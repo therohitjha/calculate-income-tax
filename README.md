@@ -5,4 +5,4 @@ Question check here https://raw.githubusercontent.com/therohitjha/calculate-inco
 
 Copy paste code into below online c IDE for testing purpose.
 
-https://www.programiz.com/c-programming/online-compiler/
+https://www.onlinegdb.com/online_c_compiler
